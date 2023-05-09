@@ -1,2 +1,2 @@
-# Domain-Churn-Case-Study
+# Domain Churn Case Study
 Case Study
