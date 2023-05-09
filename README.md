@@ -47,7 +47,7 @@ The main shortcoming of this definition is that there are customers who only rec
 
  
 
-## Usage-based churn: Customers who have not done any usage, either incoming or outgoing - in terms of calls, internet etc. over a period of time.
+##Usage-based churn: Customers who have not done any usage, either incoming or outgoing - in terms of calls, internet etc. over a period of time.
 
  
 
